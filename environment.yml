@@ -8,5 +8,6 @@ dependencies:
   - scipy
   - sympy
   - tqdm
+  - ipympl
   - pip:
     - einsteinpy
