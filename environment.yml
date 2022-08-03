@@ -7,4 +7,6 @@ dependencies:
   - matplotlib-base
   - scipy
   - sympy
-  - einsteinpy
+  - tqdm
+  - pip:
+    - einsteinpy
