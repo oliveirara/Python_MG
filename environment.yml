@@ -1,0 +1,10 @@
+name: packages
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - numpy 
+  - matplotlib-base
+  - scipy
+  - sympy
+  - einsteinpy
